@@ -2,7 +2,7 @@
 
 I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean design, great user experiences, and solid backend logic.
 
-<div>
+<div width="100%">
   <main width="50%">
 
 - 🧠 I work mostly with **JavaScript, TypeScript, React, Node.js**, and more.
@@ -12,7 +12,7 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 - 🎮 Big fan of story-rich indie games like **Undertale**, **Terraria** and **Balatro**.
 
   </main>
-  <img src=""/>
+  <img width="50%" src="https://avatars.githubusercontent.com/u/86860902?v=4"/>
 </div>
 <div width="100%">
   <img alt="Top Langs" width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
