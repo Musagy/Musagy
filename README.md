@@ -8,9 +8,8 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 - 🌍 Still learning **German** 🇩🇪 and planning to work or live abroad in the future.
 - 🎮 Big fan of story-rich indie games like **Undertale**, **Terraria** and **Balatro**.
 
-<img alt="Top Langs" align="left" width="38.57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
-<img alt="Musagy's GitHub stats" align="left" width="58.5%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
-
+<img alt="Top Langs" align="left" width="38.24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
+<img alt="Musagy's GitHub stats" align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musagy&rank_icon=github) -->
