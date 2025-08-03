@@ -14,7 +14,7 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 
     </td>
     <td width="40%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/86860902?v=4" width="160px" style="border-radius: 50%;" />
+      <img src="https://avatars.githubusercontent.com/u/86860902?v=4" width="100%" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
