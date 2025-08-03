@@ -2,18 +2,23 @@
 
 I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean design, great user experiences, and solid backend logic.
 
-<div width="100%">
-  <main width="50%">
+<table>
+  <tr>
+    <td width="60%">
+      
+- 🧠 I work mostly with **JavaScript, TypeScript, React, Node.js**, and more.  
+- 🎨 Passionate about **UX/UI** — I enjoy building things that look good *and* work well.  
+- ⚙️ Currently working on projects like **Hypremoji** (emoji picker) and **Corrozy** (modern-to-PHP transpiler), using **Rust** as a main language.  
+- 🌍 Still learning **German** 🇩🇪 and planning to work or live abroad in the future.  
+- 🎮 Big fan of story-rich indie games like **Undertale**, **Terraria**, and **Balatro**.  
 
-- 🧠 I work mostly with **JavaScript, TypeScript, React, Node.js**, and more.
-- 🎨 Passionate about **UX/UI** — I enjoy building things that look good *and* work well.
-- ⚙️ Currently working on projects like **Hypremoji** (emoji picker) and **Corrozy** (modern-to-PHP transpiler), using **Rust** as a main language.
-- 🌍 Still learning **German** 🇩🇪 and planning to work or live abroad in the future.
-- 🎮 Big fan of story-rich indie games like **Undertale**, **Terraria** and **Balatro**.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://avatars.githubusercontent.com/u/86860902?v=4" width="160px" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
-  </main>
-  <img width="50%" src="https://avatars.githubusercontent.com/u/86860902?v=4"/>
-</div>
 <div width="100%">
   <img alt="Top Langs" width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
   <img alt="Musagy's GitHub stats" width="59.5%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
