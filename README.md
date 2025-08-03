@@ -18,6 +18,54 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
     </td>
   </tr>
 </table>
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #0d1117;
+        color: #c9d1d9;
+        margin: 0;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        box-sizing: border-box;
+      }
+      .left {
+        width: 55%;
+      }
+      ul {
+        padding-left: 1.2em;
+        margin: 0;
+      }
+      li {
+        margin-bottom: 10px;
+        line-height: 1.4;
+      }
+      .right img {
+        width: 140px;
+        border-radius: 999px;
+        border: 2px solid #58a6ff;
+      }
+    </style>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div class="left">
+        <ul>
+          <li>🧠 I work mostly with <b>JavaScript, TypeScript, React, Node.js</b>, and more.</li>
+          <li>🎨 Passionate about <b>UX/UI</b> — I enjoy building things that look good <i>and</i> work well.</li>
+          <li>⚙️ Currently working on <b>Hypremoji</b> (emoji picker) and <b>Corrozy</b> (modern-to-PHP transpiler) using <b>Rust</b>.</li>
+          <li>🌍 Still learning <b>German</b> 🇩🇪 and planning to work or live abroad.</li>
+          <li>🎮 Big fan of story-rich indie games like <b>Undertale</b>, <b>Terraria</b>, and <b>Balatro</b>.</li>
+        </ul>
+      </div>
+      <div class="right">
+        <img src="https://avatars.githubusercontent.com/u/86860902?v=4" alt="Diego's avatar" />
+      </div>
+    </body>
+  </foreignObject>
+</svg>
+
 
 <div width="100%">
   <img alt="Top Langs" width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
