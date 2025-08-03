@@ -7,9 +7,10 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 - ⚙️ Currently working on projects like **Hypremoji** (emoji picker) and **Corrozy** (modern-to-PHP transpiler), using **Rust** as a main language.
 - 🌍 Still learning **German** 🇩🇪 and planning to work or live abroad in the future.
 - 🎮 Big fan of story-rich indie games like **Undertale**, **Terraria** and **Balatro**.
-
-<img alt="Top Langs" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
-<img alt="Musagy's GitHub stats" height="100em" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
+<div>
+  <img alt="Top Langs" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
+  <img alt="Musagy's GitHub stats" height="100em" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
+</div>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musagy&rank_icon=github) -->
