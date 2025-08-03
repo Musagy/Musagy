@@ -22,7 +22,7 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 </div>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Musagy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Musagy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
   
 ## 💻 Tech Stack:
 ### 🌐 Web Development
