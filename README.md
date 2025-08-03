@@ -10,8 +10,8 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 
 
 <div width="100%">
-  <img alt="Top Langs" width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
   <img alt="Musagy's GitHub stats" width="59.5%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=github_dark" />
+  <img alt="Top Langs" width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
 
