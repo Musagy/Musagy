@@ -8,6 +8,22 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musagy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MusagyDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegomusagy@gmail.com) 
 
+## 📊 GitHub Stats:
+
+<div width="100%">
+  <img width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=codeSTACKr" />
+  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=codeSTACKr&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center" width="100%">
+  
+  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=Musagy&theme=codeSTACKr&hide_border=false"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Musagy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
 ## 💻 Tech Stack:
 ### 🌐 Web Development
 #### Base Languages (Vanilla)
@@ -56,21 +72,7 @@ I'm a **fullstack developer** from Peru 🇵🇪 with a strong interest in clean
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-## 📊 GitHub Stats:
-
-<div width="100%">
-  <img width="39.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musagy&layout=compact&langs_count=8&theme=codeSTACKr" />
-  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=Musagy&show_icons=true&rank_icon=github&theme=codeSTACKr&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center" width="100%">
-  
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=Musagy&theme=codeSTACKr&hide_border=false"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Musagy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
 <div align="center">
 
